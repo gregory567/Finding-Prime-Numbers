@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711716119 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\finding prime numbers with the sieve of eratosthenes\main.c
+	<stdio.h>
+	<stdlib.h>
+
